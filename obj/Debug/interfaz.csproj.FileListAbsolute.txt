@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\interfaz\bin\Debug\interfaz.exe.config
+C:\Users\User\Desktop\interfaz\bin\Debug\interfaz.exe
+C:\Users\User\Desktop\interfaz\bin\Debug\interfaz.pdb
+C:\Users\User\Desktop\interfaz\obj\Debug\interfaz.INICIO.resources
+C:\Users\User\Desktop\interfaz\obj\Debug\interfaz.Properties.Resources.resources
+C:\Users\User\Desktop\interfaz\obj\Debug\interfaz.csproj.GenerateResource.cache
+C:\Users\User\Desktop\interfaz\obj\Debug\interfaz.exe
+C:\Users\User\Desktop\interfaz\obj\Debug\interfaz.pdb
+C:\Users\User\Desktop\interfaz\obj\Debug\interfaz.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\interfaz\obj\Debug\interfaz.ventanaPrestamo.resources
